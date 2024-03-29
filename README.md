@@ -153,5 +153,5 @@ If you find AgentStudio usedul, please cite our [paper](https://arxiv.org/abs/24
 }
 ```
 ### comparison
-![comparison](/image/agenstudio.png)  
+![comparison](/image/AgentStudio.png)  
 
